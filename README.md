@@ -106,7 +106,7 @@
 
 ##### Inventários
 
-- Inventario Automático
+- Inventario Automático 
 
 ##### Atributos
 
@@ -160,6 +160,7 @@
 ### Inventário Automático
 
 - É possível somente exportar
+- É possível converter um equipamento em IC
 
 #### Criar Inventário Automático
 
@@ -261,10 +262,11 @@
 
 ### Área
 
-- Nome
+- Nome 
 - Cliente
 - Departamento
 - Local
+- (Pode ser um solicitante, departamento ou local)
 
 ### Status ICs
 
@@ -285,6 +287,7 @@
 ### Centro de Custo
 
 - Adicionar nome do centro de custo principal, exemplo o departamento, a empresa e etc
+- Importante adotar um padrão de escritas para que fique mais fácil a leitura. Exemplo ; "ADM - 0001"
 
 ## Configurações
 
