@@ -13,7 +13,7 @@
 ## Lançamentos
 
 ### Lista de ICs
-
+### Ps: Ics são altamentes importantes para ter um controle de chamados que são realizados em determinado IC e/ou uma medida administrativa 
 - Nome
 - Vencimento
 - Status ICs
@@ -21,7 +21,7 @@
 - Tipo de Ativo
 - Número de Série
 - Patrimônio
-- Alocado
+- Alocado (o solicitante só consegue ver os ics que estão alocados a ele)
 - Proprietário
   - Cliente
   - Área
@@ -106,7 +106,8 @@
 
 ##### Inventários
 
-- Inventario Automático 
+- Inventario Automático
+- Inventario Manual 
 
 ##### Atributos
 
@@ -164,7 +165,7 @@
 
 #### Criar Inventário Automático
 
-- OID
+- OID - Chave de identificação da máquina
 - Nome
 - Label
 
